@@ -1,0 +1,8 @@
+1)randomLog.replace('Charmander', enemy.name).replace('Pikachu', character.name);
+replace: Я використовую для заміни імен покемонів у повідомленнях.
+2)const randomLog = logs[random(logs.length)];
+log(randomLog);
+logs[random(logs.length)]: Цей вираз використовую для отримання випадкового елемента з масиву, logs. random(logs.length) генерує випадковий індекс, і потім можна отримати відповідний елемент з масиву.
+3)log(logs[random(logs.length)]);
+logs[random(logs.length)]: Використовую для отримання випадкового елемента з масиву logs.
+Загалом, я використовую методи replace для роботи з рядками та вирази logs[random(logs.length)] для отримання випадкових елементів з ма
